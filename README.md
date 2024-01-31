@@ -1,4 +1,4 @@
-# News_API_Python_practice
+# News API Project with Python
 
 This project is to practice and understand the utilization of API in how data is sent and transformed with Python. 
 
